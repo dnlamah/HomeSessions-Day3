@@ -1,13 +1,17 @@
-#A Simple Clone of Medium.com Home Page
+# A Simple Clone of Medium.com Home Page
 
-#The Medium Clone was built using HTML 5, CSS 3 technology.
+## Technology used in building
 
-#The Medium Clone is responsive.
+The Medium Clone was built using HTML 5, CSS 3 technology.
 
-#To install...
+## Responsiveness
 
-#1. Clone this repository and 
+The Medium Clone is responsive.
 
-#2. open the src folder
+## To installation and Usage
 
-#3. View the clone by double click on the index,html page.
+### 1. Clone this repository and 
+
+### 2. open the src folder
+
+### 3. View the clone by double click on the index.html page.
